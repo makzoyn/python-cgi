@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<group>
+	<person>
+            <name>Kate</name>
+            <experience>9</experience>
+    </person>
+    <person>
+            <name>Dmitry</name>
+            <experience>7</experience>
+    </person>
+</group>
